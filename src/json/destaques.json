@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "titulo": "O que faz uma desenvolvedora front-end?",
+    "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal?",
+    "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/mqdefault.jpg",
+    "link": "https://www.youtube.com/embed/ZY3-MFxVdEw",
+    "categoria": "FRONT END"
+  },
+  {
+    " id:": "3",
+    "titulo": "Guia de carreira Front-end",
+    "descricao": "Nesse episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado.",
+    "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/fpth65ts3cw?",
+    "categoria": "FRONT END"
+  },
+  {
+    "id": "4",
+    "titulo": "Métricas para o Front End com Mario Souto",
+    "descricao": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site.",
+    "imagem": "https://i.ytimg.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/embed/iVNR-6v8lZU?s",
+    "categoria": "FRONT END"
+  },
+  {
+    "id": "5",
+    "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+    "descricao": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+    "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/fiPfvylj6rk",
+    "categoria": "BACK END"
+  },
+  {
+    "id": "6",
+    "titulo": "Como se tornar um desenvolvedor BACKEND?",
+    "descricao": "Recentemente fiz um video passo a passo sobre como se tornar um desenvolvedor Frontend e atendendo a pedidos, volto aqui com um passo a passo, um RoadMap de tudo que você precisa saber para se tornar um desenvolvedor Backend. ",
+    "imagem": "https://i.ytimg.com/vi/wXMlMsDvk2M/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/wXMlMsDvk2M",
+    "categoria": "BACK END"
+  },
+  {
+    "id": "7",
+    "titulo": "Como Estudar PROGRAMAÇÃO | Guia Back-End",
+    "descricao": "Quer ser um desenvolvedor back-end? Hoje vamos falar um pouco sobre o que é necessário estudar para você se tornar um programador back-end.",
+    "imagem": "https://i.ytimg.com/vi/LbKDxQ0jX90/maxresdefault.jpg",
+    "link": "https://www.youtube.com/embed/LbKDxQ0jX90",
+    "categoria": "BACK END"
+  },
+  {
+    "id": "8",
+    "titulo": "Diferença entre Back-End e Front-End com Mario Souto",
+    "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? ",
+    "imagem": "https://i.ytimg.com/vi/xrRy3RI3HE4/sddefault.jpg",
+    "link": "https://www.youtube.com/embed/xrRy3RI3HE4",
+    "categoria": "FRONT END"
+  },
+  {
+    "id": "9",
+    "titulo": "Desmistificando Mobile- Por onde eu começo? #01",
+    "descricao": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa 😉",
+    "imagem": "https://i.ytimg.com/vi/2z6f8VN_Pro/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvkptlgJE41DQGkIcR3et2yhHxqw",
+    "link": "https://youtu.be/2z6f8VN_Pro?si=Wk1Yu3IVlKGcZq58",
+    "categoria": "MOBILE"
+  },
+  {
+    "id": "10",
+    "titulo": "As 10 Inovações tecnológicas que transformarão o mundo em 2024",
+    "descricao": "Neste vídeo emocionante, mergulhamos no mundo da Inteligência Artificial e exploramos as 10 inovações revolucionárias de IA previstas para revolucionar o cenário tecnológico em 2024 e 2025",
+    "imagem": "https://i.ytimg.com/vi/Qxe07BWpkWk/maxresdefault.jpg",
+    "link": "https://www.youtube.com/embed/Qxe07BWpkWk",
+    "categoria": "INOVAÇÃO"
+  },
+  {
+    "id": "11",
+    "titulo": "Tecnologia e Inovação",
+    "descricao": "O episódio “Tecnologia e Inovação” aborda o fenômeno da revolução tecnológica e a democratização do acesso à informação no mundo.",
+    "imagem": "https://i.ytimg.com/vi/3_KCMvCIcPw/mqdefault.jpg",
+    "link": "https://www.youtube.com/embed/3_KCMvCIcPw",
+    "categoria": "INOVAÇÃO"
+  },
+  {
+    "id": "12",
+    "titulo": "Criatividade e inovação no trabalho.",
+    "descricao": "Criatividade e inovação no trabalho. Toda Importância para se destacar no mercado.",
+    "imagem": "https://abriminhaempresa.com/wp-content/uploads/2023/10/Criatividade-e-Inovacao-no-Trabalho.jpg",
+    "link": "https://www.youtube.com/embed/6Q94wOEiO84",
+    "categoria": "INOVAÇÃO"
+  },
+  {
+    "id": "13",
+    "titulo": "5 projetos MOBILE para o seu PORTFÓLIO (Ideias de aplicativos)",
+    "descricao": "Uma das maiores dificuldades quando estamos aprendendo tecnologias é criar projetos para colocar em prática toda aquela teoria. Criar um projeto real é muito importante porque você acaba aprendendo muito, é muito diferente de fazer exercícios específicos e depois não saber de fato como juntar tudo aquilo. Criando um projeto você consegue conectar tudo que aprendeu com algo real e isso é muito importante! ",
+    "imagem": "https://i.ytimg.com/vi/tIKISc-UcVg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk5ormNQSVYz5lSZBstWqsETWVLw",
+    "link": "https://youtu.be/tIKISc-UcVg?si=cUmgAh8_3QG_89Rx",
+    "categoria": "MOBILE"
+  },
+  {
+    "id": "14",
+    "titulo": "Steven Johnson: Como nasce a inovação",
+    "descricao": "A inovação não vem em um momento 'eureka'. São mais de 20 anos pesquisando e escrevendo sobre inovações. ",
+    "imagem": "https://i.ytimg.com/vi/2A8qwMaxhfc/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/2A8qwMaxhfc",
+    "categoria": "INOVAÇÃO"
+  },
+  {
+    "id": "15",
+    "titulo": "Como se tornar um DESENVOLVEDOR MOBILE? (Roadmap - PASSO A PASSO para iniciantes)",
+    "descricao": "Grande parte da experiência de serviços hoje, passa pelo mobile, isso pela praticidade de estarmos o tempo todo conectados. Isso faz com que haja uma demanda crescente por profissionais capacitados para desenvolver essas aplicações. O salário de um desenvolvedor mobile esta entre os melhores salários da tecnologia e se você quer ser um deles, fica comigo até o fim desse video! Estou fazendo uma serie de videos sobre roadmaps de estudo, ja fiz para backend, frontend, web e agora para mobile. Como se tornar o desenvolvedor mobile, o que você precisa saber e estudar! Bora lá?",
+    "imagem": "https://i.ytimg.com/vi/X-XfVvd41O8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFs8UerZe9ldPBgeW6qQs_BqD8ng",
+    "link": "https://youtu.be/X-XfVvd41O8?si=MWmxuqIwHMOH47IJ",
+    "categoria": "MOBILE"
+  },
+  {
+    "id": "16",
+    "titulo": "Como Se Tornar Um Desenvolvedor MOBILE em 2024? (ROADMAP de tecnologias ATUALIZADO)",
+    "descricao": "Um desenvolvedor mobile é um profissional que cria aplicativos para smartphones e tablets e smartwatchs usando linguagens como Kotlin, Java, Swift, Dart, C# e Javascript. Uma área em constante crescimento que vem passando por muitas transformações nos últimos anos. ",
+    "imagem": "https://i.ytimg.com/vi/COY5vTa778g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlaxZTpvS3MoHcjeU2k6lXa7H-sg",
+    "link": "https://youtu.be/COY5vTa778g?si=hMYdntnEMKPlLP47",
+    "categoria": "MOBILE"
+  },
+  {
+    "nome": "Casper",
+    "preco": "835.00",
+    "imagem": "https://i.ytimg.com/vi/BoHl-grg8JU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdSqJJg99ovNT8Y9EqIIj6ArD0Rg",
+    "id": "17",
+    "titulo": "CHEGOU A HORA DE FALAR DE JAVA!",
+    "descricao": "28 ANOS DEPOIS, O JAVA ESTÁ AÍ... FIRME E FORTE! Analisamos, vagas, salários e o mercado dessa linguagem praticamente onipresente em todas as plataformas. Mesmo na computação em nuvem o Java é só facilidade.",
+    "link": "https://youtu.be/BoHl-grg8JU?si=3ofPmtNWjPQr0Xl3",
+    "categoria": "BACK END"
+  }
+]
